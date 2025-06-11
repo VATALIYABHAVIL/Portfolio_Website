@@ -14,6 +14,5 @@ Diploma in Information Technology
 ## Live Demo
 [View Here](http://localhost:3000/)
 
-## Screenshot
-![Portfolio Screenshot](img/screenshot.png)
+
 
