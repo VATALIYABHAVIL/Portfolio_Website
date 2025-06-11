@@ -12,7 +12,7 @@ Diploma in Information Technology
 - JavaScript
 
 ## Live Demo
-[View Here](portfolio-website-kpez8e9el-vataliyabhavils-projects.vercel.app)
+[View Here](https://portfolio-website.vercel.app)
 
 
 
